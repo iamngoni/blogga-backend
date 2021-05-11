@@ -1,0 +1,24 @@
+{
+  "name": "blogga-backend",
+  "version": "1.0.0",
+  "description": "Backend for a blogging site",
+  "main": "dist/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamngoni/blogga-backend.git"
+  },
+  "keywords": [
+    "Blogga",
+    "iamngoni",
+    "mangudya"
+  ],
+  "author": "Ngonidzashe Mangudya <imngonii@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamngoni/blogga-backend/issues"
+  },
+  "homepage": "https://github.com/iamngoni/blogga-backend#readme"
+}
